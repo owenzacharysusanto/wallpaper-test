@@ -1,0 +1,28 @@
+{
+  "waveScale": {
+    "type": "slider",
+    "value": 100,
+    "min": 40,
+    "max": 180,
+    "step": 5,
+    "text": "Wave Height (%)"
+  },
+  "stormSensitivity": {
+    "type": "slider",
+    "value": 100,
+    "min": 30,
+    "max": 200,
+    "step": 10,
+    "text": "Storm & Lightning Sensitivity (%)"
+  },
+  "showClock": {
+    "type": "checkbox",
+    "value": true,
+    "text": "Show macOS Lock-Screen Clock"
+  },
+  "showHorizonDetails": {
+    "type": "checkbox",
+    "value": true,
+    "text": "Show Crescent Moon, Lighthouse & Birds"
+  }
+}
